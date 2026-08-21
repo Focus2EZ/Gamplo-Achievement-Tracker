@@ -5,3 +5,10 @@ Achievement tracker for the site [Gamplo](https://gamplo.com/), you can sync you
 
 ## Known issue(s)
 - Achievements not syncing correctly. You can fix this by typing your username without capital letters otherwise it will lead to a 404 page.
+
+
+
+
+
+
+###### This was coded with AI, I don't take credit for any of this code. But thank you for using my program anyway.
